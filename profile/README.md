@@ -16,7 +16,7 @@ A video example that the user can generate after a training/simulation process c
 
 ## Report
 
-The project report is available [here](https://github.com/DistributedMARLPredatorPrey/bootstrap/docs/report.pdf).
+The project report is available [here](https://github.com/DistributedMARLPredatorPrey/bootstrap/blob/develop/docs/report.pdf).
 
 ## Authors
 
